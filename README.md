@@ -9,6 +9,7 @@ Our objective was to improve the Yapraklı-Kavak village road, which originally 
 
 ## 2.New Route of The Road
 ### 2.1 General view
+In the diagram provided below, the new route of the road is depicted with teal color.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/95945518/224319755-765e8bab-1f5d-4663-b8ae-2254817bf249.png" alt="Road" />
   <br>2.1 Picture / New path is something like that</br>
